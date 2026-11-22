@@ -2,7 +2,7 @@
 
 Flutter software engineer at Apes Solutions, Cairo. I take mobile apps from Figma to the App Store and Google Play: architecture, API integration, payments, push notifications and the store release at the end. Before Flutter I built Power BI and SAP dashboards, so data-heavy screens feel like home.
 
-**Portfolio:** [portfolio-alpha-sepia-82.vercel.app](https://portfolio-alpha-sepia-82.vercel.app) · **LinkedIn:** [eyad-oraby](https://www.linkedin.com/in/eyad-oraby-30631b247/) · Giza, Egypt
+**Portfolio:** [portfolio-alpha-sepia-82.vercel.app](https://portfolio-alpha-sepia-82.vercel.app) · **CV:** [PDF](https://portfolio-alpha-sepia-82.vercel.app/Eyad_Oraby_CV.pdf) · **LinkedIn:** [eyad-oraby](https://www.linkedin.com/in/eyad-oraby-30631b247/) · Giza, Egypt
 
 ### Shipped at work
 
