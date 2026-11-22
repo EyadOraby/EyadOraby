@@ -21,14 +21,16 @@ Production apps I've built or worked on, live on the stores (the code is private
 | [Tabkha](https://github.com/EyadOraby/tabkha_app) | Food ordering with three sides: customers, restaurant admins and couriers. Flutter, English and Arabic. | [Web demo](https://eyadoraby.github.io/tabkha_app/) |
 | [SANAD](https://github.com/EyadOraby/grad) | Public services for people with disabilities in Egypt: ID renewal, medical bookings, jobs, a staff portal. My graduation project, still growing. | [Web demo](https://eyadoraby.github.io/grad/) |
 | [The Maker's Market](https://github.com/EyadOraby/makers-market) | A store for Egyptian handmade crafts with its own brand, drawn product art, checkout and an owner's dashboard. Flutter, BLoC, Hive, English and Arabic. | [Web demo](https://eyadoraby.github.io/makers-market/) |
+| [Explorations](https://github.com/EyadOraby/explorations) | Small Flutter experiments, each with a question, a demo and what I learned: staggered animation, Arabic right-to-left layouts, text at 200%. | [Web demo](https://eyadoraby.github.io/explorations/) |
 | [Portfolio](https://github.com/EyadOraby/portfolio) | My portfolio, built as a home screen of widgets. React, TypeScript, Vite. | [Live](https://portfolio-alpha-sepia-82.vercel.app) |
 
 Every repo has CI, tests and a live demo, and work lands through small pull requests.
 
 ### Right now
 
-- Redesigning Tabkha and SANAD, each with its own brand (fonts, icons, illustration), in English and Arabic
-- Just shipped: Mini Shop became **The Maker's Market**, a shop for Egyptian handmade crafts with art drawn in code
+- Started **Explorations**: small Flutter experiments on animation, right-to-left layouts and accessibility
+- Tabkha and SANAD now load their admin and staff areas only when opened, so the web demos start lighter
+- Recently shipped: new brands for Tabkha and SANAD, and Mini Shop became **The Maker's Market**
 - Reading about DevOps, networking and cybersecurity on the side
 
 **Stack:** Flutter · Dart · BLoC · Firebase · REST · TypeScript · React · Next.js · Prisma · Postgres · GitHub Actions
