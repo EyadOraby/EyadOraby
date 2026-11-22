@@ -20,15 +20,15 @@ Production apps I've built or worked on, live on the stores (the code is private
 | [RSVP Studio](https://github.com/EyadOraby/wedding-rsvp) | Build an RSVP page for any event and watch the replies come in. Next.js, Prisma, Postgres; 153 tests. | [Live](https://wedding-rsvp-tau-five.vercel.app) |
 | [Tabkha](https://github.com/EyadOraby/tabkha_app) | Food ordering with three sides: customers, restaurant admins and couriers. Flutter, English and Arabic. | [Web demo](https://eyadoraby.github.io/tabkha_app/) |
 | [SANAD](https://github.com/EyadOraby/grad) | Public services for people with disabilities in Egypt: ID renewal, medical bookings, jobs, a staff portal. My graduation project, still growing. | [Web demo](https://eyadoraby.github.io/grad/) |
-| [Mini Shop](https://github.com/EyadOraby/Mini-Shop-App) | A shop with catalogue, cart, checkout and an orders dashboard. Flutter, BLoC, Hive. | [Web demo](https://eyadoraby.github.io/Mini-Shop-App/) |
+| [The Maker's Market](https://github.com/EyadOraby/makers-market) | A store for Egyptian handmade crafts with its own brand, drawn product art, checkout and an owner's dashboard. Flutter, BLoC, Hive, English and Arabic. | [Web demo](https://eyadoraby.github.io/makers-market/) |
 | [Portfolio](https://github.com/EyadOraby/portfolio) | My portfolio, built as a home screen of widgets. React, TypeScript, Vite. | [Live](https://portfolio-alpha-sepia-82.vercel.app) |
 
 Every repo has CI, tests and a live demo, and work lands through small pull requests.
 
 ### Right now
 
-- Redesigning Tabkha, SANAD and Mini Shop, each with its own brand (fonts, icons, illustration), in English and Arabic
-- Turning Mini Shop into **The Maker's Market**, a shop for Egyptian handmade crafts
+- Redesigning Tabkha and SANAD, each with its own brand (fonts, icons, illustration), in English and Arabic
+- Just shipped: Mini Shop became **The Maker's Market**, a shop for Egyptian handmade crafts with art drawn in code
 - Reading about DevOps, networking and cybersecurity on the side
 
 **Stack:** Flutter · Dart · BLoC · Firebase · REST · TypeScript · React · Next.js · Prisma · Postgres · GitHub Actions
